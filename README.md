@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiran--jb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-jb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiran--jb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kiranbhavikatti)
 [![GitHub](https://img.shields.io/badge/GitHub-kiranjb9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiranjb9)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00e5a0?style=for-the-badge&logo=vercel&logoColor=black)](https://kiranjb9.github.io/portfolio/)
 [![Location](https://img.shields.io/badge/📍_Bangalore-India-FF6B35?style=for-the-badge)](https://github.com/kiranjb9)
@@ -149,7 +149,7 @@ REST APIs         Automation             GPT-4.1 · LangChain
 ║   📍  Based in Bangalore, India                      ║
 ║   📞  +91 97406 95919                                ║
 ║   🌐  kiranjb9.github.io/portfolio                   ║
-║   💼  linkedin.com/in/kiran-jb                       ║
+║   💼  linkedin.com/in/kiranbhavikatti                ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
